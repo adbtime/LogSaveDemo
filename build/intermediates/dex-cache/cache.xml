@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\workspace\adbtime\first\LogSaveDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="G:\workspace\adbtime\first\LogSaveDemo\app\build\intermediates\pre-dexed\debug\classes-a4ed0c10720f4101eefd37383b7ea6e2da71a53f.jar" />
+    </item>
+    <item
+        jar="G:\workspace\adbtime\first\LogSaveDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="G:\workspace\adbtime\first\LogSaveDemo\app\build\intermediates\pre-dexed\debug\classes-660f43ef42deed02007bd8bcf11424113cfee185.jar" />
+    </item>
+    <item
+        jar="G:\workspace\adbtime\first\LogSaveDemo\app\libs\log4j-1.2.17.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4f90475694c41965c9a0c8bac53ea5c690dea446">
+        <dex dex="G:\workspace\adbtime\first\LogSaveDemo\app\build\intermediates\pre-dexed\debug\log4j-1.2.17-6bcec5ed22763aad467cf44ba0d284a0ef229da7.jar" />
+    </item>
+    <item
+        jar="D:\Android\Soft\Androidsdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="G:\workspace\adbtime\first\LogSaveDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-25e5c3eb9828c4ccbe7d1bdf7ed9542d8dc926b3.jar" />
+    </item>
+    <item
+        jar="G:\workspace\adbtime\first\LogSaveDemo\app\libs\slf4j-log4j12-1.7.12.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c8863da86e92f4d860f5f6c4b24d7c5f154af1c1">
+        <dex dex="G:\workspace\adbtime\first\LogSaveDemo\app\build\intermediates\pre-dexed\debug\slf4j-log4j12-1.7.12-39b65ccc0da24335dd068c441832b72a093f0116.jar" />
+    </item>
+    <item
+        jar="G:\workspace\adbtime\first\LogSaveDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="G:\workspace\adbtime\first\LogSaveDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-21c271ac20e5552c80133d8397074f5d1b4d9ef8.jar" />
+    </item>
+    <item
+        jar="G:\workspace\adbtime\first\LogSaveDemo\app\libs\android-logging-log4j-1.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="bee823e6955d3a5806700026f838ebbca907ac7a">
+        <dex dex="G:\workspace\adbtime\first\LogSaveDemo\app\build\intermediates\pre-dexed\debug\android-logging-log4j-1.0.3-a2b8c0c6669bcb0bdfeda5f9a1598500e1acf3c6.jar" />
+    </item>
+    <item
+        jar="G:\workspace\adbtime\first\LogSaveDemo\app\libs\slf4j-api-1.7.12.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="387a5ecb2fa27eef48036d666b060d8b65f272e1">
+        <dex dex="G:\workspace\adbtime\first\LogSaveDemo\app\build\intermediates\pre-dexed\debug\slf4j-api-1.7.12-bb59b1b13ca84487738bdb065397ef0a696b93ef.jar" />
+    </item>
+
+</items>
